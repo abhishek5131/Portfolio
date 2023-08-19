@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.8ada731e.css",
+    "main.js": "/myPortfolio/static/js/main.e341325d.js",
+    "static/media/DashboardWebApps.webp": "/myPortfolio/static/media/DashboardWebApps.70ca5ce72c86fc3c0826.webp",
+    "static/media/Chart.webp": "/myPortfolio/static/media/Chart.bfdfb0433ef7dba2acce.webp",
+    "static/media/me.png": "/myPortfolio/static/media/me.b8196a31b8b31243ea58.png",
+    "static/media/NodeSys.webp": "/myPortfolio/static/media/NodeSys.9f9c18b8e9b8b5d92be3.webp",
+    "static/media/resume.pdf": "/myPortfolio/static/media/resume.5fac5f2365a406aff376.pdf",
+    "static/media/walk.jpg": "/myPortfolio/static/media/walk.9cc6ab3551cf5a4af850.jpg",
+    "static/media/avatar2.jpg": "/myPortfolio/static/media/avatar2.21330826777d835181a4.jpg",
+    "static/media/avatar4.jpg": "/myPortfolio/static/media/avatar4.2bebb2590dfede2a8ee8.jpg",
+    "static/media/avatar3.jpg": "/myPortfolio/static/media/avatar3.5a2644695b164fa6ef58.jpg",
+    "static/media/avatar1.jpg": "/myPortfolio/static/media/avatar1.43fd58ef2b8d93106a91.jpg",
+    "static/media/asfalt-light.png": "/myPortfolio/static/media/asfalt-light.0dc0248a94662fa2129c.png",
+    "index.html": "/myPortfolio/index.html",
+    "main.8ada731e.css.map": "/myPortfolio/static/css/main.8ada731e.css.map",
+    "main.e341325d.js.map": "/myPortfolio/static/js/main.e341325d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ada731e.css",
+    "static/js/main.e341325d.js"
+  ]
+}
